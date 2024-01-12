@@ -9,23 +9,24 @@ Mattia Biasco
 1. Ich habe jetzt einen Notendurchschnitt von 4. Im Modul 319 war ich am schlechtesten mit einer 3,5. Das Modul 319 ist am wichtigsten, da es ein Programmiermodul ist.
 2. Ich habe mir vorgenommen klarere Arbeitspackete zu planen. Das werde ich verbessern indem ich mir mehr Zeit nehme.
 
-3.Ich werde mein Programmierprojekt, das ich vor den Ferien angefangen habe, fertigstellen. Zusätzlich werde ich noch Aufträge fertig machen, weil ich nie mit den Aufträgen vom Mittwoch oder Montag fertig werde.
+3.Ich werde mein Programmierprojekt(Snakegame), das ich vor den Ferien angefangen habe, fertigstellen. Zusätzlich werde ich noch Aufträge fertig machen, weil ich nie mit den Aufträgen vom Mittwoch oder Montag fertig werde.
 
 ## 12.1.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die Aufträge 164_7710 und 164_7711 gemacht. Danach habe ich angeschaut, was ich bereits programmiert habe und was ich noch machen muss. Danach habe ich alles in 5 Arbeitspackete eingeteilt. Die restlichen 3 Arbeitspackete verwende ich für das Nacharbeiten von Aufträgen. Am Schluss habe ich noch zu jedem Arbeitspacket ein Testfall gemacht. [54]
 
 ## 19.1.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Teil 6 Wände zeichnen, Teil 7 Snake zeichnen
+- [ ] Teil 8 Äpfel zeichnen, Teil 9 Snake Directions, Teil 10 Snake Movement
+- [ ] Teil 11 Snake Ende durch den Hintergrund ersetzen , Teil 12 Koordinaten updaten
+- [ ] Auftrag 164_7714 machen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               | Wände, Snake und Äpfel gezeichnet | Programm starten | Wand, Snake und Äpfel sind dargestellt |          |
+| 2               | Steuerung programmiert | Taste drücken | Snake bewegt sich in die richtige Richtung  |          |
+| 3               | Spiel gestartet | Schlange bewegt sich um 1 | letztes Stück der Schlange wird durch den Hintergrund ersetzt |          |
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
@@ -33,18 +34,19 @@ Mattia Biasco
 
 ## 26.1.2024
 
-- [ ] Fünftes AP
-- [ ] Spiel endet, wenn Schlange sich selber beisst
+- [ ] Teil 13 Ausrichtung des Snake Kopfs, Teil 14 Game over wenn Snake die Wand berührt, Teil 15 Game over wenn die Snake sich selber beisst
+- [ ] Teil 16 Äpfel essen, Teil 17 Snake Kopf zeichnen, Teil 18 Game fertigstellen und testen
+- [ ] Auftrag 164_7721 machen
+- [ ] An der LB vom Modul 164 arbeiten
 
-- [ ] Achtes AP
 
 | Testfall-Nummer | Ausgangslage (Given)                                         | Eingabe (When)              | Ausgabe (Then) | Erfüllt? |
 | --------------- | ------------------------------------------------------------ | --------------------------- | -------------- | -------- |
-| 5               |                                                              |                             |                |          |
-| 7               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich selber | Spiel endet    |          |
-| 8               |                                                              |                             |                |          |
+| 5               | Spiel gestartet, Schlange lang genug, dass sie sich beissen kann | Schlange beisst sich| Game over|        |
+| 6               | Spiel gestartet  | Schlange stösst mit der Wand zusammen | Game over |      |
+| 7               | Spiel gestartet, Apfel vor der Schlange | Schlange isst den Apfel | Schlange wird um 1 länger |          |
 
-✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
