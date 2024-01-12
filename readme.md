@@ -1,14 +1,14 @@
 # Lern-Periode 3
 
-Max Muster
+Mattia Biasco
 
 12.1. bis 23.2.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. Was wäre ein geeignetes Projekt würd diese LP3?
+1. Ich habe jetzt einen Notendurchschnitt von 4. Im Modul 319 war ich am schlechtesten mit einer 3,5. Das Modul 319 ist am wichtigsten, da es ein Programmiermodul ist.
+2. Ich habe mir vorgenommen klarere Arbeitspackete zu planen. Das werde ich verbessern indem ich mir mehr Zeit nehme.
+3.Ich werde mein Programmierprojekt, das ich vor den Ferien angefangen habe, fertigstellen. Zusätzlich werde ich noch Aufträge fertig machen, weil ich nie mit den Aufträgen vom Mittwoch oder Montag fertig werde.
 
 ## 12.1.2024
 
