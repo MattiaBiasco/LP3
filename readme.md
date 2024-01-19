@@ -28,7 +28,7 @@ Heute habe ich die Aufträge 164_7710 und 164_7711 gemacht. Danach habe ich ange
 | 2               | Steuerung programmiert | Taste drücken | Snake bewegt sich in die richtige Richtung  |          |
 | 3               | Spiel gestartet | Schlange bewegt sich um 1 | letztes Stück der Schlange wird durch den Hintergrund ersetzt |          |
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute habe ich weiter am Snake Game gearbeitet. Ich habe den Code für die Wände geschrieben und dann getestet. Die Wände wurden falsch platziert. Ich habe nach dem Fehler gesucht, doch ich habe keinen gefunden. Darum habe ich dann an den Aufträgen weitergearbeitet. Ich habe die Aufträge 7712 und 7713 gelöst. [51]
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
